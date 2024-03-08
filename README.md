@@ -60,23 +60,28 @@ group by member_casual
 1. Though the annual members were the highest number of customers for the company in 2023, casual riders are riding the longest.
 
 
-  <img src="images/pie-chart.png" width="405" /> <img src="images/bar-chart.png" width="450" />
+   <img src="images/pie-chart.png" width="405" /> <img src="images/bar-chart.png" width="450" />
 
-          _Image1_                                                _Image2_
+    > Image1 and Image2
 
 
 
 2. Casual riders renting the most bikes during weekends while members do it on weekdays.
 
 
-   <img src="images/multiplebar-chart.png" width="600" />
+    <img src="images/multiplebar-chart.png" width="600" />
+
+   > Image3
 
 
    
 3. Bike trips tend to rise between Quarter2 and Quarter3 .
 
 
-  <img src="images/line-chart.png" width="600" />
+     <img src="images/line-chart.png" width="600" />
+
+    >Image4
+
 
 
 ### Recommendations
