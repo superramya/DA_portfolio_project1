@@ -61,7 +61,8 @@ group by member_casual
 
 
   <img src="images/pie-chart.png" width="405" /> <img src="images/bar-chart.png" width="450" />
-  
+
+          _Image1_                                                _Image2_
 
 
 
