@@ -88,7 +88,7 @@ group by member_casual
 
 1. I removed the blank values of start and end station columns because it would affect the accuracy of the insights.
 2. A bike type called docked_bike for casual riders was found only for the first 3 Quaters and it is missing for the last quarter and also it does not show the docked_bike data for the annual members, because of the lack of data and to maintain accuracy, the variable was not taken into account in the analysis. Also, this variable has outliers as its range is way out of the other bike types.
-3. Individual datasets are large and saved in .csv which has become hard to combine, so analysis has been performed separately and the summary of the data has been merged(excel file in the attachments). [Google Drive link](https://drive.google.com/drive/folders/1MU2fdGMciMQiaQpBbv5R_-_PlAvcqynG) for individual sheets.
+3. Individual datasets are large and saved in .csv which has become hard to combine, so analysis has been performed separately and the summary of the data has been merged [bike ride data](2023_bike_tripdata_summary_v2.xlsx). You can find individual sheets in [Google Drive link](https://drive.google.com/drive/folders/1MU2fdGMciMQiaQpBbv5R_-_PlAvcqynG) .
 
 ### References
 
