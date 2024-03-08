@@ -60,9 +60,8 @@ group by member_casual
 1. Though the annual members were the highest number of customers for the company in 2023, casual riders are riding the longest.
 
 
-  <img src="images/pie-chart.png" width="405" /> <img src="images/bar-chart.png" width="450" align="right" />
+  <img src="images/pie-chart.png" width="405" /> <img src="images/bar-chart.png" width="450" />
   
-
 
 
 
@@ -72,8 +71,6 @@ group by member_casual
    <img src="images/multiplebar-chart.png" width="600" />
 
 
-
-  
    
 3. Bike trips tend to rise between Quarter2 and Quarter3 .
 
