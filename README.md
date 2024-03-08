@@ -61,10 +61,12 @@ group by member_casual
 
 
   <img src="images/Pie%20Chart.png" width="405" /> <img src="images/Bar%20chart.png" width="450" align="right" />
+  
    
 2. Casual riders renting the most bikes during weekends while members do it on weekdays.
 
 
+   <img src="images/MultipleBar-chart.png" width="500" />
    
 3. Bike trips tend to rise between Quarter2 and Quarter3 .
 
