@@ -57,7 +57,7 @@ GROUP BY member_casual, day_of_week;
 ```
 ### Analysis Findings/Results
 
-1. Though the annual members were the highest number of customers for the company in 2023, casual riders are riding the longest.
+1. Though the annual members were the highest number of customers(shown in Image1) for the company in 2023, casual riders are riding the longest(shown in Image2).
 
 
    <img src="images/pie-chart.png" width="405" /> <img src="images/bar-chart.png" width="450" />
