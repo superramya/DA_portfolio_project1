@@ -51,9 +51,9 @@ Data is analysed in excel using functions like average, max and percentage etc. 
 Analysis is viewed through SQL(wrote a few queries), an example below:
 
 ```sql
-SELECT avg(ride_len) FROM bike_trip
-WHERE member_casual = members
-group by member_casual
+SELECT member_casual, day_of_week, COUNT(ride_id) as total_rides
+FROM biketrip_jandata
+GROUP BY member_casual, day_of_week;
 ```
 ### Analysis Findings/Results
 
